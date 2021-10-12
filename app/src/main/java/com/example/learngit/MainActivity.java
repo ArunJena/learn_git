@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
 
         //B2 C1
 
-        //damuri-1
+        //damuri-2
     }
 }
